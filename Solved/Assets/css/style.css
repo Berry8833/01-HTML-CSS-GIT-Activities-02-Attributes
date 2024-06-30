@@ -1,0 +1,15 @@
+.section {
+    background-color: lavender;
+}
+.header {
+    color: darkblue;
+}
+#email {
+    background-color: burlywood;
+}
+#github {
+    background-color: khaki;
+}
+#portfolio {
+    background-color: pink;
+}
